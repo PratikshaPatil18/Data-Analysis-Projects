@@ -6,7 +6,17 @@ This project is an interactive **Power BI Dashboard** built using a simulated Ph
 The dashboard is designed with an intuitive navigation panel, allowing users to switch seamlessly between different PhonePe services such as Insurance, Loans, Money Transfer, and Recharge & Bills.
 
 ---
+## 📂 Project Files
 
+The complete project files, including the Power BI dashboard (`.pbix`) and dataset, are available in the Google Drive folder below due to GitHub's file size limitations.
+
+📁 **Google Drive Folder:**  
+https://drive.google.com/drive/folders/1VXs254mun3H8-Eti0n9AzFUGH3UR3_if?usp=sharing
+
+> **Contents:**
+> - 📊 Power BI Dashboard (.pbix)
+> - 📁 Dataset
+> - 📸 Dashboard Screenshots
 ## 🚀 Features
 
 - 📅 Interactive Date Range Filter
